@@ -1,6 +1,24 @@
-# ForSwiftUI
+# WeatherYang 
 
+This is a weather application 
 
+## Discription
+
+Some nice word here, 80 words
+
+## Techiniques
+
+SwiftUI
+
+Abstraction
+
+## IDE
+
+Swift 5.3
+
+Xcode 12.3
+
+Fits on every iPhone device 
 
 This will deployed for my next app
 
