@@ -12,6 +12,10 @@ SwiftUI
 
 Abstraction
 
+## Todos
+1. data handling
+2. api calling
+
 ## IDE
 
 Swift 5.3
