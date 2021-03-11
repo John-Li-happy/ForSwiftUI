@@ -1,4 +1,4 @@
-# JohnnyWeather 
+# Weathering 
 
 This is a weather application 
 
