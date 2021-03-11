@@ -1,4 +1,4 @@
-# WeatherYang 
+# JohnnyWeather 
 
 This is a weather application 
 
